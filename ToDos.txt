@@ -1,0 +1,12 @@
+Limit the times user get to change a enter new user name to 3 times. After than assign a random user name to user and ask for password. 
+Abort call handling when go back functionality is called.
+add load function that will load the struct from the users_data whenever we rerun the code.
+Add a function to load admin home page or the page to be displayed after admin logins.
+In the add question section, work on how a new user should add file. Most Obvious way is to open a txt editor, ask him to do 3 things. Description, Input, Output. and Make a new folder of the question and move all the files there, inside the questions folder of admin.
+On person work on allowing a way to come back a page, like coming back from question to home page of users and similars.
+Parent child process stuff
+Signal Handling
+
+Note: As, soon as a todo is over, remove it from here. 
+Also make sure you don't push any sensitive information of yours on github.
+Try to generalize it.

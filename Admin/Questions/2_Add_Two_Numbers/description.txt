@@ -1,0 +1,24 @@
+Kaushal is in 3rd standard. Tomorrow his mam is going to ask him simple addition problems. He know how to give input in a code and to get 
+output. Help him to get full marks in exam.
+
+Input Format :-
+
+First line -> Number of testcases (N)
+N pairs of numbers in next N lines for addition.
+
+Out Format :-
+
+N number of lines giving the answers to respective N additions.
+
+Sample Testcase :-
+
+Input :- 
+
+2
+4 2
+9 11
+
+Output :- 
+
+6
+20
